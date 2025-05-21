@@ -1,0 +1,23 @@
+# ninja log v6
+33	405	7538286233265204	HorrorGame_autogen/timestamp	5a517131683fb6ae
+33	405	7538286233265204	HorrorGame_autogen/mocs_compilation.cpp	5a517131683fb6ae
+5382	12615	7538282368178775	CMakeFiles/HorrorGame.dir/HorrorGame_autogen/mocs_compilation.cpp.obj	c1664f99131f7c52
+406	6194	7538286236995195	CMakeFiles/HorrorGame.dir/mainwindow.cpp.obj	f58317e07570fbfd
+6195	7093	7538286294880405	HorrorGame.exe	bb9b885d61925a27
+415	7346	7536487995165830	CMakeFiles/HorrorGame.dir/map.cpp.obj	7fa0a13b7a1ab8f6
+33	405	7538286233265204	G:/Horror/HorrorGame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/HorrorGame_autogen/timestamp	5a517131683fb6ae
+33	405	7538286233265204	G:/Horror/HorrorGame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/HorrorGame_autogen/mocs_compilation.cpp	5a517131683fb6ae
+5555	17473	7538248500527208	CMakeFiles/HorrorGame.dir/main.cpp.obj	ddf5b93affb063f9
+5264	14927	7535687041101158	CMakeFiles/HorrorGame.dir/myRect.cpp.obj	7735db4f3901baf9
+5396	12169	7538282368328372	CMakeFiles/HorrorGame.dir/Bullet.cpp.obj	1cc26e79cb70b72e
+43	1464	7540930970737787	build.ninja	f2594dd991d67582
+8898	9562	7536697059266790	HorrorGame_autogen/EWIEGA46WW/qrc_resources.cpp	e55ccd617f7889b7
+8898	9562	7536697059266790	G:/Horror/HorrorGame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/HorrorGame_autogen/EWIEGA46WW/qrc_resources.cpp	e55ccd617f7889b7
+19081	31909	7536697154611836	CMakeFiles/HorrorGame.dir/HorrorGame_autogen/EWIEGA46WW/qrc_resources.cpp.obj	e694fd8df09850aa
+5704	13779	7533885361206769	CMakeFiles/HorrorGame.dir/gamewidget.cpp.obj	ac7728fa3d19bd19
+5569	17489	7538248500638452	CMakeFiles/HorrorGame.dir/Enemy.cpp.obj	b8b9188aa489d175
+5391	12137	7538282368278491	CMakeFiles/HorrorGame.dir/Player.cpp.obj	5abe2608a9fc4b46
+18	818	7536694622223247	CMakeFiles/clean.additional	baedbe210acaa455
+818	970	7536694630221853	clean	577b940aee94fbd7
+60	145	7540941067611867	CMakeFiles/clean.additional	baedbe210acaa455
+163	189	7540941068639115	clean	577b940aee94fbd7

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>F:/Everything/Images/this.jpeg</file>
+        <file>../Assets/Images/Cursor.png</file>
+        <file>../Assets/Images/bullet.png</file>
+        <file>../Assets/Images/ExactBackground.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+    <qresource prefix="/abc"/>
+</RCC>
